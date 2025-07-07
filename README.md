@@ -1,6 +1,3 @@
-Here's an improved `README.md` for your project that includes your deployment information and maintains all the Lovable project details:
-
-```markdown
 # Fame Glow Calculator ✨
 
 A modern social media influence calculator that measures your online fame score based on followers, following, and engagement metrics.
