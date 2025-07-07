@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+Here's an improved `README.md` for your project that includes your deployment information and maintains all the Lovable project details:
 
-## Project info
+```markdown
+# Fame Glow Calculator ✨
 
-**URL**: https://lovable.dev/projects/428ee5b1-d4ff-4e61-9d33-fb5206bf59e3
+A modern social media influence calculator that measures your online fame score based on followers, following, and engagement metrics.
 
-## How can I edit this code?
+!![screenshot](https://github.com/user-attachments/assets/1251e030-e75f-432f-aa89-4ff17ae980e6)
 
-There are several ways of editing your application.
 
-**Use Lovable**
+## 🌟 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/428ee5b1-d4ff-4e61-9d33-fb5206bf59e3) and start prompting.
+- Platform analysis (Instagram, Twitter, YouTube, TikTok)
+- Dark/light mode toggle
+- Engagement rate calculator
+- Celebrity tier classification
+- Social sharing capabilities
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Deployment
 
-**Use your preferred IDE**
+Your project is live on Vercel:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Main URL: [fame-glow.vercel.app](https://fame-glow.vercel.app)
+- Preview URL: [fame-glow-nischalsirs-projects.vercel.app](https://fame-glow-nischalsirs-projects.vercel.app)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠 Development
 
-Follow these steps:
+### Technologies Used
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- ⚡ Vite - Next generation frontend tooling
+- 🧩 React - JavaScript library for building user interfaces
+- 🎨 Tailwind CSS - Utility-first CSS framework
+- ✨ shadcn/ui - Beautifully designed components
+- 📘 TypeScript - Typed JavaScript
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/nischalsir/fame-glow.git
+   cd fame-glow
+   ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
 
-**Edit a file directly in GitHub**
+3. Start development server:
+   ```sh
+   npm run dev
+   ```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
-**Use GitHub Codespaces**
+## 📝 Editing Options
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Locally
+Use your preferred IDE after cloning the repository
 
-## What technologies are used for this project?
+### GitHub Codespaces
+Launch a cloud development environment directly from GitHub
 
-This project is built with:
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/428ee5b1-d4ff-4e61-9d33-fb5206bf59e3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📄 License
+[MIT](https://choosealicense.com/licenses/mit/)
