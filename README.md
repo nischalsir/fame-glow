@@ -2,7 +2,7 @@
 
 A modern social media influence calculator that measures your online fame score based on followers, following, and engagement metrics.
 
-!![screenshot](https://github.com/user-attachments/assets/1251e030-e75f-432f-aa89-4ff17ae980e6)
+![screenshot](https://github.com/user-attachments/assets/1251e030-e75f-432f-aa89-4ff17ae980e6)
 
 
 ## 🌟 Features
@@ -15,7 +15,7 @@ A modern social media influence calculator that measures your online fame score 
 
 ## 🚀 Deployment
 
-Your project is live on Vercel:
+Oroject is live on Vercel:
 
 - Main URL: [fame-glow.vercel.app](https://fame-glow.vercel.app)
 - Preview URL: [fame-glow-nischalsirs-projects.vercel.app](https://fame-glow-nischalsirs-projects.vercel.app)
